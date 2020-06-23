@@ -19,3 +19,6 @@
 </div>
 
 ```
+# Copy
+
+<a href="http://esemihsahin.com/sites/default/files/styles/syntax-highlight-tool.css" target="_blank">go copy</a>
